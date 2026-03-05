@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(41, 38, 38, 0.918);
+    margin: 0;
+}
+#clock-container{
+    display: flex;
+    justify-content: right;
+}
+#clock{
+    font-family: monospace;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 3px;
+    color: white;
+    background-color: rgba(231, 170, 16, 0.479);
+    border: none;
+    border-radius: 0.5em;
+}

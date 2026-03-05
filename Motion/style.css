@@ -1,0 +1,14 @@
+body{
+    background-color: navajowhite;    
+}
+#motion{
+    background-color: rgb(166, 230, 17);
+    height: 150px;
+    width: 250px;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 25px;
+}

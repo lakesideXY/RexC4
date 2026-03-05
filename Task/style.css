@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: bisque;
+}
+.container{
+    background-color: cyan;
+    width: 300px;
+    border: none;
+    border-radius: 10px;
+}
+.display{
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    background-color: white;   
+}
+input{
+    flex: 1;
+    padding: 20px;
+    width: 100%;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
+button{
+    border: none;
+    padding: 15px 15px;
+    font-size: 20px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+}
+ul{ list-style-type: square;
+}
+.class{
+    position: absolute;
+}
+span{
+    padding: 40px;
+    /*position: absolute;*/
+    margin-right: 0px;
+    /*right: 0;
+    line-height: 40px;
+    top: 5px;
+    width: 40px;
+    height: 40px;
+    
+    
+    text-align: center;*/
+}

@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    background-color: navajowhite;
+}
+div{
+    margin: 5px;
+}
+#myBox1{
+    background-color: lightblue;
+    height: 150px;
+    width: 250px;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 25px;
+}
+#myBtn{
+    background-color: rgb(243, 5, 5);
+    height: 50px;
+    width: 50px;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 15px;
+}
+#myBox2{
+    background-color: lightblue;
+    height: 150px;
+    width: 250px;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 25px;
+    margin: 5px;
+}
+#myBox3{
+    background-color: rgb(166, 221, 38);
+    height: 150px;
+    width: 250px;
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border-radius: 25px;
+}
+#myBtn1{
+    font-size: 2rem;
+}

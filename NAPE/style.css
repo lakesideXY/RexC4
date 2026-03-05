@@ -1,0 +1,39 @@
+body {
+  background-image: url(/Img/507.jpg);
+  background-color: cyan;
+  background-size: cover;
+  background-attachment: scroll;
+  margin: 0;
+}
+ul {
+  text-align: center;
+}
+li {
+  display: inline;
+  margin: 5px;
+  padding: 5px;
+  background-color: navajowhite;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+}
+.top {
+  /*background-color: rgb(158, 112, 42);*/
+  justify-items: center;
+  border: none;
+}
+.footer {
+  background-color: black;
+  border-radius: 10px;
+  display: flex;
+  border: none;
+  /*margin: 5px;*/
+}
+.footer > div {
+  width: 33%;
+  margin: 5px;
+  /*padding: 3px;*/
+}
+.foot {
+  color: blanchedalmond;
+}
